@@ -45,16 +45,16 @@ Di **`RamfinContext.js`**, reducer memproses minimal tipe aksi berikut:
 
 ## Screenshot
 
-1. **Beranda**
+### Beranda
    <img src ="assets/ss 1.jpeg" width="240">
 
-2. **Transaksi**
+### Transaksi
    <img src ="assets/ss 2.jpeg" width="240">
 
-3. **Tambah**
+### Tambah
    <img src ="assets/ss 3.jpeg" width="240">
 
-4. **Statistik**
+### Statistik
    <img src ="assets/ss 4.jpeg" width="240">
 
 ## Cara Menjalankan
