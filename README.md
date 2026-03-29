@@ -46,16 +46,16 @@ Di **`RamfinContext.js`**, reducer memproses minimal tipe aksi berikut:
 ## Screenshot
 
 1. **Beranda**
-   ![SS 1 - Beranda](asset/ss%201.png)
+   <img src ="assests/ss 1.jpeg">
 
 2. **Transaksi**
-   ![SS 2 - Transaksi](asset/ss%202.png)
+   <img src ="assests/ss 2.jpeg">
 
 3. **Tambah**
-   ![SS 3 - Tambah](asset/ss%203.png)
+   <img src ="assests/ss 3.jpeg">
 
 4. **Statistik**
-   ![SS 4 - Statistik](asset/ss%204.png)
+   <img src ="assests/ss 4.jpeg">
 
 ## Cara Menjalankan
 
@@ -63,19 +63,3 @@ Di **`RamfinContext.js`**, reducer memproses minimal tipe aksi berikut:
 npm install && npx expo start
 ```
 
-Setelah Metro bundler jalan, pilih **Android**, **iOS**, atau **web** sesuai perangkat Anda.
-
-## Struktur Kode (ringkas)
-
-```
-src/
-  context/     RamfinContext.js — data transaksi; ThemeContext.js — tema & warna
-  hooks/       useWallet.js
-  screens/     Home, Transactions, Add, Stats
-  components/  Form, list, filter, header, dll.
-App.js         RamfinProvider + ThemeProvider + navigasi tab
-```
-
-## Nama folder proyek
-
-Di sistem file, rename folder root misalnya dari `THR-Manager-App` menjadi **`Ramfin`** (atau `Ramadan-Finance`) agar selaras dengan nama aplikasi. Path kode tidak bergantung pada nama folder.
