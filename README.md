@@ -46,16 +46,16 @@ Di **`RamfinContext.js`**, reducer memproses minimal tipe aksi berikut:
 ## Screenshot
 
 1. **Beranda**
-   <img src ="assests/ss 1.jpeg">
+   <img src ="assets/ss 1.jpeg">
 
 2. **Transaksi**
-   <img src ="assests/ss 2.jpeg">
+   <img src ="assets/ss 2.jpeg">
 
 3. **Tambah**
-   <img src ="assests/ss 3.jpeg">
+   <img src ="assets/ss 3.jpeg">
 
 4. **Statistik**
-   <img src ="assests/ss 4.jpeg">
+   <img src ="assets/ss 4.jpeg">
 
 ## Cara Menjalankan
 
